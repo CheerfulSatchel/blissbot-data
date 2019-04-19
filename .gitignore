@@ -1,0 +1,9 @@
+.Python
+
+bin/
+include/
+lib
+
+node_modules/
+
+src/.serverless
